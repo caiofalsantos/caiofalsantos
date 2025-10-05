@@ -12,13 +12,13 @@
 
 <td><a href="https://github.com/caiofalsantos" target="_blank"><img src="img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:caiofalinacio@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:caiofalinacio@gmail.com" target="_blank"><img src="img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531995597489" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531995597489" target="_blank"><img src="img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/caiofalinacio/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/caiofalinacio/" target="_blank"><img src="img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/caio-falinacio-464b18357" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/caio-falinacio-464b18357" target="_blank"><img src="img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://joaopauloaramuni.github.io/image/slack.png?raw=true" width="50px" height="50px"/></a>
