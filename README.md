@@ -4,8 +4,6 @@
 <img align="center" alt="Header" src="img/github-header-banner.png"/>
 </div>
 
------�
-
 -----
 
 <div align="center">
