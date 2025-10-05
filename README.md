@@ -44,13 +44,13 @@
 
 <div>
 
-<img height="20" alt="SVG" src="https://github.com/caiofalsantos/caiofalsantos/img/graphic.svg?raw=true"/>GitHub Stats:
+<img height="20" alt="SVG" src="https://github.com/caiofalsantos/caiofalsantos/img/graphic.svg"/>GitHub Stats:
 
 <div align="center">
 <table>
 <tr>
  
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@caiofalsantos">WakaTime</a></td>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/caiofalsantos">WakaTime</a></td>
 </tr> 
 <tr>
 <td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=caiofalsantos&theme=dark&langs_count=12"/></td>
