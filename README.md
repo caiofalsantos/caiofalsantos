@@ -100,10 +100,6 @@
 <td>
 <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiofalsantos&theme=github_dark"/>
 </td>
-<td>
-<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=joaopauloaramuni&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
-</td>
-</tr>
 <tr>
  <td align="center" colspan="3"></td>
 </tr>
@@ -117,71 +113,6 @@
 </tr> 
 </table>
 </div>
-</div>
-
-<div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;Veja mais
-</summary>
-<br />
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="2">:octocat: GitHub Metrics</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.classic.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stars.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.activity.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.people.followers.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.stargazers.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.plugin.topics.icons.svg" alt="Metrics">
-</td>
-<td>
-<img width="400px" src="https://joaopauloaramuni.github.io/metrics.terminal.svg" alt="Metrics">
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center">:octocat: GitHub 5-Year Retrospective</td>
-</tr>
-<tr>
- <td align="center">
-  <img src="https://joaopauloaramuni.github.io/image/postspark_export_12-16-2024_17-14-32.png" alt="GitHub 5-Year Retrospective">
- </td>
-</tr>
-</table>
-</div>
-
-</details>
 </div>
 
 -----
