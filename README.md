@@ -33,9 +33,9 @@
 
 <div align="justify">
 <i><b>Oi</b> :wave:, sou o <code>Caio</code>, tenho 19 anos e faço Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 
-<i><br>Aqui estão algumas das minhas estatísticas de codificação da última semana, via WakaTime:</i>
+<i><br><br>Aqui estão algumas das minhas estatísticas de codificação da última semana, via WakaTime:</i>
 </div>
-
+<br>
 <!--START_SECTION:waka-->
 
 ```txt
