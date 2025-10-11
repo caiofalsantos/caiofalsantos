@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: 
 
 jobs:
   update-readme:
@@ -15,11 +15,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIME_RANGE: "all_time"
-          SHOW_OS: "true"
-          SHOW_PROJECTS: "false"
-          SHOW_EDITORS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_COMMIT: "false"
-          SHOW_LANGUAGE_PER_REPO: "false"
-          SHOW_SHORT_INFO: "false"
-          SHOW_LOC_CHART: "false"
