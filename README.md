@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 20 October 2025
+From: 19 August 2025 - To: 21 October 2025
 
-Total Time: 55 hrs 18 mins
+Total Time: 56 hrs 48 mins
 
-Python            20 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   36.23 %
-Java              18 hrs 27 mins  ████████▒░░░░░░░░░░░░░░░░   33.39 %
-CSS               6 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-HTML              5 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Java Properties   1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python            20 hrs 2 mins   ████████▓░░░░░░░░░░░░░░░░   35.27 %
+Java              18 hrs 58 mins  ████████▒░░░░░░░░░░░░░░░░   33.41 %
+HTML              6 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+CSS               6 hrs 14 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Java Properties   1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 ```
 
 <!--END_SECTION:waka-->
