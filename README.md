@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2025 - To: 31 March 2026
+From: 19 August 2025 - To: 01 April 2026
 
-Total Time: 198 hrs 2 mins
+Total Time: 201 hrs 18 mins
 
-Java              102 hrs 27 mins       █████████████░░░░░░░░░░░░   51.74 %
-Python            36 hrs 32 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-JavaScript        30 hrs 9 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
-CSS               9 hrs 27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-HTML              8 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Java              102 hrs 27 mins       ████████████▓░░░░░░░░░░░░   50.90 %
+Python            36 hrs 32 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+JavaScript        30 hrs 50 mins        ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+CSS               9 hrs 51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+HTML              8 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
