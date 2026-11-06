@@ -32,8 +32,24 @@
 </div>
 
 <div align="justify">
-<i><b>Oi</b> :wave:, sou o <code>Caio</code>, tenho 19 anos e faço Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 
-<i><br><br>Aqui estão algumas das minhas estatísticas de codificação, via WakaTime:</i>
+## Sobre Mim
+
+Olá! Sou o **Caio**, estudante do **4º período de Engenharia de Software** na [PUC Minas](https://www.pucminas.br/) e **Analista de Sistemas Júnior** desde o início de 2025. 
+
+Tenho perfil voltado para resolução metódica de problemas, boas práticas de engenharia e trabalho colaborativo.
+
+---
+
+### Trajetória e Experiência
+* **Analista de Sistemas Jr.:** Atuação no desenvolvimento e suporte de soluções de software (2025 - Presente).
+* **Técnico em Administração:** Formado pelo **IFMG - Campus Ribeirão das Neves**, agregando visão de processos, organização e gestão ao desenvolvimento técnico.
+* **Liderança e Projetos:** Experiência prática na liderança de equipes e coordenação de projetos acadêmicos multidisciplinares.
+* **Idiomas:** Inglês intermediário (leitura técnica, documentação e comunicação).
+
+### Além do Código e Experiências Formativas
+* **Xadrez:** Praticante e ex-monitor da modalidade, com foco em pensamento estratégico, tomada de decisão e didática.
+* **Monitoria de Física:** Ex-monitor no Ensino Médio, exercitando a capacidade de simplificar e explicar conceitos complexos.
+* **Interesses Pessoais:** Acompanhamento de produções de cinema e séries nas horas vagas.
 </div>
 <br>
 <!--START_SECTION:waka-->
