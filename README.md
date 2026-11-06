@@ -9,7 +9,7 @@
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
+  <td align="center" colspan="4"></td>
 </tr> 
 <tr>
 
@@ -17,16 +17,12 @@
 </td>
 <td><a href="mailto:caiofalinacio@gmail.com" target="_blank"><img src="img/gmail3.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531995597489" target="_blank"><img src="img/wpp2.png" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/caiofalinacio/" target="_blank"><img src="img/insta2.png" width="50px" height="50px"/></a>
-</td>
 <td><a href="https://www.linkedin.com/in/caio-falinacio-464b18357" target="_blank"><img src="img/linkedin2.png" width="50px" height="50px"/></a>
 </td>
 
 </tr>
 <tr>
- <td align="center" colspan="11"></td>
+  <td align="center" colspan="4"></td>
 </tr> 
 </table>
 </div>
